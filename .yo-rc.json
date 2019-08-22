@@ -1,9 +1,9 @@
 {
   "generator-wupjs": {
     "createdWith": "0.6.0-5",
-    "modifiedWith": "0.6.0-6",
+    "modifiedWith": "0.6.0-7",
     "createdOn": "2019-07-02T13:30:19.950Z",
-    "modifiedOn": "2019-08-04T17:35:04.154Z",
+    "modifiedOn": "2019-08-22T15:14:29.077Z",
     "gulp": true,
     "srcDir": "src",
     "testDir": "test",
