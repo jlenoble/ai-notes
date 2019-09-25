@@ -1,6 +1,6 @@
-# ai-notes
+# notes
 
-Personal notes on AI
+Notes on the Node ecosystem
 
   * [Usage](#usage)
   * [License](#license)
@@ -11,17 +11,12 @@ Personal notes on AI
 Blah blah blah
 
 ```js
-import AiNotes from "ai-notes";
-
-const defaultArgs = [];
-
-new AiNotes(...defaultArgs);
 ```
 
 
 ## License
 
-ai-notes is [MIT licensed](./LICENSE).
+notes is [MIT licensed](./LICENSE).
 
 © 2019 [Jason Lenoble](mailto:jason.lenoble@gmail.com)
 
